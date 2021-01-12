@@ -2,7 +2,7 @@
 
 # Hi, I'm MrDoomy 👋
 
-<img align="left" width="300" height="300" src="https://raw.githubusercontent.com/MrDoomy/MrDoomy/master/octocat.svg" alt="Hi, I'm MrDoomy">
+<img align="left" width="200" height="200" src="https://raw.githubusercontent.com/MrDoomy/MrDoomy/master/octocat.svg" alt="Hi, I'm MrDoomy">
 
 Passionate about IT science since many years. I have a **FullStack** software developer profile.
 
