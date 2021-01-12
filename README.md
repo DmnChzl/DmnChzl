@@ -1,11 +1,8 @@
-<img src="https://img.shields.io/badge/software-engineer-4285f4" alt="Software Engineer">
-<img src="https://img.shields.io/badge/series-addict-db4437" alt="Series Addict">
-<img src="https://img.shields.io/badge/music-lover-f4b400" alt="Music Lover">
-<img src="https://img.shields.io/badge/web-enthusiast-0f9d58" alt="Web Enthusiast">
+[![npm](https://img.shields.io/badge/software-engineer-4285f4)](https://www.mrdoomy.xyz) [![npm](https://img.shields.io/badge/series-addict-db4437)](https://www.mrdoomy.xyz) [![npm](https://img.shields.io/badge/music-lover-f4b400)](https://www.mrdoomy.xyz) [![npm](https://img.shields.io/badge/web-enthusiast-0f9d58)](https://www.mrdoomy.xyz) 
 
 # Hi, I'm MrDoomy 👋
 
-<img align="left" width="250" height="250" src="./octocat.svg" alt="Hi, I'm MrDoomy">
+<img align="left" width="275" height="275" src="./octocat.svg" alt="Hi, I'm MrDoomy">
 
 Passionate about IT science since many years. I have a **FullStack** software developer profile.
 
