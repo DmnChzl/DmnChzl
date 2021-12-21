@@ -1,8 +1,6 @@
-[![npm](https://img.shields.io/badge/software-engineer-4285f4)](https://www.mrdoomy.xyz) [![npm](https://img.shields.io/badge/series-addict-db4437)](https://www.mrdoomy.xyz) [![npm](https://img.shields.io/badge/music-lover-f4b400)](https://www.mrdoomy.xyz) [![npm](https://img.shields.io/badge/web-enthusiast-0f9d58)](https://www.mrdoomy.xyz) 
+# Hi, I'm Damien 👋
 
-# Hi, I'm MrDoomy 👋
-
-<img align="left" width="250" height="250" src="https://raw.githubusercontent.com/MrDoomy/MrDoomy/master/octocat.png" alt="Hi, I'm MrDoomy">
+<img align="left" width="250" height="250" src="https://raw.githubusercontent.com/DmnChzl/DmnChzl/master/octocat.png" alt="Hi, I'm Damien">
 
 Passionate about IT science since many years. I have a **FullStack** software developer profile.
 
