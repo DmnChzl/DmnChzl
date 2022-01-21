@@ -52,4 +52,4 @@ Aware of the time-consuming nature of the code, I aspire in the future to manage
 <a href="https://www.gitlab.com/dmnchzl"><img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=social&logo=gitlab"/></a>&nbsp;
 
 <a href="https://www.dev.to/dmnchzl"><img alt="DevCommunity" src="https://img.shields.io/badge/-DevCommunity-0A0A0A?style=social&logo=devdotto"/></a>&nbsp;
-<a href="https://www.medium.com/dmnchzl"><img alt="Medium" src="https://img.shields.io/badge/-Medium-000000?style=social&logo=medium"/></a>&nbsp;
+<a href="https://www.medium.com/@dmnchzl"><img alt="Medium" src="https://img.shields.io/badge/-Medium-000000?style=social&logo=medium"/></a>&nbsp;
