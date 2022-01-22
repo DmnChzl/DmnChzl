@@ -34,6 +34,8 @@ Aware of the time-consuming nature of the code, I aspire in the future to manage
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4298B8?style=flat&logo=postgresql&logoColor=FFFFFF)&nbsp;
 
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=FFFFFF)&nbsp;
+
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=FFFFFF)&nbsp;
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=FFFFFF)&nbsp;
 
