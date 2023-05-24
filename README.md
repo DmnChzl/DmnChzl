@@ -27,7 +27,7 @@ Aware of the time-consuming nature of the code, I aspire in the future to manage
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=nodedotjs&logoColor=FFFFFF)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=FFFFFF)&nbsp;
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=FFFFFF)&nbsp;
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=FFFFFF)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=FFFFFF)&nbsp;
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=FFFFFF)&nbsp;
