@@ -2,17 +2,19 @@
 
 ## Hi, I'm Damien 👋
 
-Passionate about IT science since many years. I have a **FullStack** software developer profile.
+**FullStack** developer with a passion for IT for over a decade...
 
-Indeed, I started to develop mobile applications in **Java** and **Kotlin** for **Android**.
+I started to develop mobile applications in **Java**, then in **Kotlin** for **Android**.
 
-When I discovered **NodeJS** and the **AngularJS** framework, I found myself a passion for Web development but especially for the **JavaScript** programming language.
+When I discovered **NodeJS** and the **AngularJS** framework (rest in peace), I found myself a real passion for Web development, but especially for the JavaScript language.
 
-**React**, **VueJS**, **TypeScript**, **MongoDB**, **ExpressJS**, **GraphQL**, **SCSS**... Are the technologies that I handle every day.
+**React**, **VueJS**, **TypeScript**, **MongoDB**, **GraphQL**, **SCSS**, etc. are the technologies I work with on every day.
 
-Today, I love designing and creating from A to Z (from APIs to graphical rendering) Web applications.
+Today, I design and maintain applications / sites from A to Z (from APIs to visual rendering). Moreover, I attach particular attention to **UI/UX**, which I consider to be the cornerstone of a successful project!
 
-Aware of the time-consuming nature of the code, I aspire in the future to manage large-scale IT projects. In the meantime, I'm moving forward in my life with the head full of new ideas and innovative projects.
+The art of development and my curiosity for what's new, push me to share my knowledge with my peers, through articles, conferences and training.
+
+Aware of the time-consuming nature of the code, I aspire to manage large-scale IT projects in the future. In the meantime, I'm moving forward in my life with my head full of new ideas, and my eyes turned towards the Web.
 
 ## Tech
 
