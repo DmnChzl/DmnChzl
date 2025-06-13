@@ -22,12 +22,15 @@ Aware of the time-consuming nature of the code, I aspire to manage large-scale I
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=FFFFFF)&nbsp;
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=FFFFFF)&nbsp;
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=FFFFFF)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-663399?style=flat&logo=css&logoColor=FFFFFF)&nbsp;
 
+![Angular](https://img.shields.io/badge/-Angular-DD0000?style=flat&logo=angular&logoColor=FFFFFF)&nbsp;
+![Preact](https://img.shields.io/badge/-Preact-673AB8?style=flat&logo=preact&logoColor=FFFFFF)&nbsp;
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=FFFFFF)&nbsp;
+
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=nodedotjs&logoColor=FFFFFF)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=FFFFFF)&nbsp;
+![Deno](https://img.shields.io/badge/-Deno-000000?style=flat&logo=deno&logoColor=FFFFFF)&nbsp;
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=FFFFFF)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=FFFFFF)&nbsp;
@@ -43,14 +46,16 @@ Aware of the time-consuming nature of the code, I aspire to manage large-scale I
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjZmZmIj48dGl0bGU+VmlzdWFsIFN0dWRpbyBDb2RlIGljb248L3RpdGxlPjxwYXRoIGQ9Ik0yMy4xNSAyLjU4N0wxOC4yMS4yMWExLjQ5NCAxLjQ5NCAwIDAgMC0xLjcwNS4yOWwtOS40NiA4LjYzLTQuMTItMy4xMjhhLjk5OS45OTkgMCAwIDAtMS4yNzYuMDU3TC4zMjcgNy4yNjFBMSAxIDAgMCAwIC4zMjYgOC43NEwzLjg5OSAxMiAuMzI2IDE1LjI2YTEgMSAwIDAgMCAuMDAxIDEuNDc5TDEuNjUgMTcuOTRhLjk5OS45OTkgMCAwIDAgMS4yNzYuMDU3bDQuMTItMy4xMjggOS40NiA4LjYzYTEuNDkyIDEuNDkyIDAgMCAwIDEuNzA0LjI5bDQuOTQyLTIuMzc3QTEuNSAxLjUgMCAwIDAgMjQgMjAuMDZWMy45MzlhMS41IDEuNSAwIDAgMC0uODUtMS4zNTJ6bS01LjE0NiAxNC44NjFMMTAuODI2IDEybDcuMTc4LTUuNDQ4djEwLjg5NnoiLz48L3N2Zz4=)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellijidea&logoColor=FFFFFF)&nbsp;
-![Android Studio](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat&logo=androidstudio&logoColor=FFFFFF)&nbsp;
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=FFFFFF)&nbsp;
+![Penpot](https://img.shields.io/badge/-Penpot-FFFFFF?style=flat&logo=penpot&logoColor=000000)&nbsp;
+
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=FFFFFF)&nbsp;
 
 ## Contact
 
 <a href="https://www.linkedin.com/in/damien-chazoule"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjMGE2NmMyIj48dGl0bGU+TGlua2VkSW4gaWNvbjwvdGl0bGU+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+"/></a>&nbsp;
-<a href="https://threads.net/@dmn_chzl"><img alt="Threads" src="https://img.shields.io/badge/-Threads-000000?style=social&logo=threads"/></a>&nbsp;
+<a href="https://bsky.app/profile/dmnchzl.dev"><img alt="Bluesky" src="https://img.shields.io/badge/-Bluesky-0285FF?style=social&logo=bluesky"/></a>&nbsp;
 
 <a href="https://www.github.com/dmnchzl"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=social&logo=github"/></a>&nbsp;
 <a href="https://www.gitlab.com/dmnchzl"><img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=social&logo=gitlab"/></a>&nbsp;
